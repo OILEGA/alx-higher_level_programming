@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 for i in range(97, 123):
-    if alpha(i) == 'q' or alpha(i) == 'e':
+    if chr(i) == 'q' or chr(i) == 'e':
         continue
-    print(alpha(i).format(i), end='')
+    print(chr(i).format(i), end='')
