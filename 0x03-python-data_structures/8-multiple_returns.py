@@ -6,6 +6,5 @@ def multiple_returns(sentence):
         result = (0, None)
         return result
     else:
-    result = (length, sentence[0:1])
-    return result
-
+        result = (length, sentence[0:1])
+        return result
