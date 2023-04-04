@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 
 class Rectangle:
@@ -42,11 +41,11 @@ def height(self, value):
 
 def area(self):
     """ returning the area of a rectangle under public instance method """
-    return self.__width * self.__height
+    return self.width * self.height
 
 def perimeter(self):
     """ returning the perimeter of a rectangle under public instance method"""
-    if self.__width == 0 or self.__height == 0:
+    if self.width == 0 or self.height == 0:
         return 0
     else:
-        return 2 * (self.__width + self.__height)
+        return 2 * (self.width + self.height)
