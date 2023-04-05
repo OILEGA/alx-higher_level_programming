@@ -1,4 +1,4 @@
 #!/usr/bin/python3
-def magic_string():
-    return ''.join(['BestSchool'*i for i in range(1, 3)])
-print((magic_string())
+def magic_string(H=[]):
+    H += ["BestSchool"]
+    return (", ".join(H))
