@@ -1,10 +1,14 @@
 #!/usr/bin/python3
+"""
+This module is called the "3-say_my-name" module.
+The 3-say_my_name  module supplies one function, say_my_name.
+"""
+
+
 def say_my_name(first_name, last_name=""):
-    if not type(first_name, str):
+    """Prints "My name is" followed by the first name and optional last name"""
+    if type(first_name) is not str:
         raise TypeError("first_name must be a string")
-    if not type(last_name, str):
+    if type(last_name) is not str:
         raise TypeError("last_name must be a string")
-    if last_name:
-        print(f"My name is {first_name} {last_name}")
-    else:
-        print(f"My name is {first_name}")
+    print("My name is", first_name, last_name)
