@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def matrix_divided(matrix, div):
     # Check that matrix is a list of lists of integers or floats
     if not all(type(row, list) and all(type(x, (int, float)) for x in row) for row in matrix):
