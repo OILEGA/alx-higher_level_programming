@@ -7,10 +7,12 @@ when buttons are pressed or with data entry on forms; with dynamic styling; with
 This article helps you get started with JavaScript and furthers your understanding of what is possible.
 ## Variables
 Variables are containers that store values. You start by declaring a variable with the let keyword, followed by the name you give to the variable:
+```
 let myVariable;
-
-
-https://intranet.alxswe.com/rltoken/3HLjEesLsmyWfRUWnxgUGg
+```
+## Resources
+[https://intranet.alxswe.com/rltoken/3HLjEesLsmyWfRUWnxgUGg](#writing-java-code)
+https://intranet.alxswe.com/rltoken/VPd6JWaLrwOBzjAeXNAEqg
 
 
 https://intranet.alxswe.com/rltoken/zgOWmcpVLZFEmFlmuwayyg
