@@ -10,9 +10,22 @@ Variables are containers that store values. You start by declaring a variable wi
 ```
 let myVariable;
 ```
+JavaScript is case sensitive. This means myVariable is not the same as myvariable. If you have problems in your code, check the case!
+After declaring a variable, you can give it a value:
+```
+myVariable = "Bob";
+```
+Also, you can do both these operations on the same line:
+```
+let myVariable = "Bob";
+```
+
 ## Resources
-[https://intranet.alxswe.com/rltoken/3HLjEesLsmyWfRUWnxgUGg](#writing-java-code)
+https://intranet.alxswe.com/rltoken/3HLjEesLsmyWfRUWnxgUGg
 https://intranet.alxswe.com/rltoken/VPd6JWaLrwOBzjAeXNAEqg
+https://intranet.alxswe.com/rltoken/e3EfHIxICdIncGBwwIDbXQ
+https://intranet.alxswe.com/rltoken/jg7IbvJpV2oLIKgqOAQH1g
+https://intranet.alxswe.com/rltoken/Y8hkOcy5jO22lQGyF6_NiA
 
 
 https://intranet.alxswe.com/rltoken/zgOWmcpVLZFEmFlmuwayyg
