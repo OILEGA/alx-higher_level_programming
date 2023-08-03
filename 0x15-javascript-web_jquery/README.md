@@ -4,4 +4,5 @@ JavaScript-web_JQuery Project
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 </head>
 
-https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/305/1f1ihd.jpg
+![image](https://github.com/OILEGA/alx-higher_level_programming/assets/117779858/f3c57189-a9d2-44e3-bb6b-1e37993e0887)
+
